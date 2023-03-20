@@ -1,0 +1,21 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Italianno-Regular.ttf",
+      "sha1": "1d0fca4d186f74e1567d7aef33998fea1d837284"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "0f23dcd6c6e5292cc6f3903dc8fc8c0281313b9f"
+    },
+    {
+      "path": "assets/fonts/Tangerine-Bold.ttf",
+      "sha1": "7fcaa79bed1e9346d6a5968705e9b13c52b4aea4"
+    },
+    {
+      "path": "assets/fonts/Tangerine-Regular.ttf",
+      "sha1": "de81de284d2c67b45f1e3d6c568cba6e6eb6e320"
+    }
+  ]
+}
